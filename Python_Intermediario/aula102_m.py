@@ -1,0 +1,2 @@
+variavel = 'Raquel'
+print(variavel)

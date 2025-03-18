@@ -1,0 +1,7 @@
+Success: Honey Badger (LogFileMixin)
+Error: Jou (LogFileMixin)
+Success: Honey Badger (LogFileMixin)
+Success: Smasung S20 est· ligado (Smartphone)
+Error: Iphone_x est· desligado (Smartphone)
+Success: Smasung S20 est√° ligado (Smartphone)
+Error: Iphone_x est√° desligado (Smartphone)
