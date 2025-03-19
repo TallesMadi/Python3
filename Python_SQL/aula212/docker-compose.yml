@@ -1,6 +1,8 @@
 version: '3.9'
 services:
   mysql_211:
+    env_file: 
+      - .env
     container_name: mysql_211
     hostname: mysql_211
     image: mysql:8

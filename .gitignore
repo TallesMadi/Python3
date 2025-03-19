@@ -3,3 +3,10 @@ Python_SQL/aula212/mysql_211/mysql.sock
 node_modules/
 __pycache__/
 .DS_Store
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
