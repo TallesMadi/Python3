@@ -1,2 +1,5 @@
 Python_SQL/aula212/mysql_211/mysql.sock
-.vscode/launch.json
+.vscode/
+node_modules/
+__pycache__/
+.DS_Store
